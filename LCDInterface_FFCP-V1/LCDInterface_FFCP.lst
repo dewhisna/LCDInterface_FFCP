@@ -1,0 +1,104 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Tue 27 Dec 2016 02:22:09 AM CST
+#Cmp ( order = Reference )
+| C1         0.1uF       
+| C2         0.1uF       
+| C3         0.1uF       
+| C4         47uF 10V    
+| C5         0.1uF       
+| C6         0.1uF       
+| C7         0.1uF       
+| C8         47uF 10V    
+| C9         0.1uF       
+| C10        0.1uF       
+| C11        0.1uF       
+| D1         GREEN       
+| D2         RED         
+| D3         GREEN       
+| J1         06241       
+| P1         CONN_13X2   
+| P2         CONN_16     
+| P3         CONN_12     
+| P4         CONN_1      
+| R1         10K         
+| R2         10K         
+| R3         22          
+| R4         10K         
+| R5         560         
+| R6         220         
+| R7         560         
+| R8         2.2K        
+| R9         10K         
+| R10        10K         
+| R11        10K         
+| R12        330         
+| R13        10K         
+| R14        10K         
+| R15        1K          
+| R16        1K          
+| R17        1K          
+| R18        1K          
+| R19        1K          
+| RV1        10K         
+| TV1        ESDA6V1U1   
+| TV2        ESDA6V1U1   
+| TV3        ESDA6V1U1   
+| U1         74LVC1T45   
+| U2         74LVC1T45   
+| U3         74LVC1T45   
+| U4         74LVC1T45   
+| U5         HEF4094B    
+| U6         LM1117MP-3.3
+#End Cmp
+
+#Cmp ( order = Value )
+| 0.1uF        C1        
+| 0.1uF        C2        
+| 0.1uF        C3        
+| 0.1uF        C5        
+| 0.1uF        C6        
+| 0.1uF        C7        
+| 0.1uF        C9        
+| 0.1uF        C10       
+| 0.1uF        C11       
+| 47uF 10V     C4        
+| 47uF 10V     C8        
+| GREEN        D1        
+| RED          D2        
+| GREEN        D3        
+| 06241        J1        
+| CONN_13X2    P1        
+| CONN_12      P3        
+| CONN_1       P4        
+| CONN_16      P2        
+| 22           R3        
+| 220          R6        
+| 330          R12       
+| 560          R5        
+| 560          R7        
+| 1K           R15       
+| 1K           R16       
+| 1K           R17       
+| 1K           R18       
+| 1K           R19       
+| 2.2K         R8        
+| 10K          R1        
+| 10K          R2        
+| 10K          R4        
+| 10K          R9        
+| 10K          R10       
+| 10K          R11       
+| 10K          R13       
+| 10K          R14       
+| 10K          RV1       
+| ESDA6V1U1    TV1       
+| ESDA6V1U1    TV2       
+| ESDA6V1U1    TV3       
+| HEF4094B     U5        
+| 74LVC1T45    U1        
+| 74LVC1T45    U2        
+| 74LVC1T45    U3        
+| 74LVC1T45    U4        
+| LM1117MP-3.3 U6        
+#End Cmp
+
+#End List

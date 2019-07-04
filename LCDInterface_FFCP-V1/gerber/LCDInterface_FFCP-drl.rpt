@@ -1,0 +1,26 @@
+Drill report for LCDInterface_FFCP.kicad_pcb
+Created on Fri 30 Dec 2016 02:23:30 PM CST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'LCDInterface_FFCP.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.64mm  0.025"  (50 holes)
+    T2  1.07mm  0.042"  (54 holes)
+    T3  1.52mm  0.060"  (1 hole)
+
+    Total plated holes count 105
+
+
+Drill file 'LCDInterface_FFCP-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.52mm  0.060"  (2 holes)
+    T2  3.17mm  0.125"  (3 holes)
+
+    Total unplated holes count 5

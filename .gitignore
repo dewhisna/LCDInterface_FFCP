@@ -1,0 +1,17 @@
+
+# Exceptions specific to KiCAD:
+# Ignore KiCAD bak files, but include the library cache files
+#  as they can serve as a data fallback for library generation, as per:
+#  https://electronics.stackexchange.com/questions/221756/which-files-to-version-control-for-kicad
+
+*~
+*.kicad_pcb-bak
+*.bak
+*.bck
+!*-cache.lib
+!*-rescue.lib
+!/**/KiCAD/**/*.lib
+
+
+# Junk Folders:
+/**/junk
